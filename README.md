@@ -1,43 +1,24 @@
 <div align="center">
 <p>
-   <img width="480" src="https://github.com/Aaris-Kazi/Tool-Detection-using-YOLO/blob/main/output.gif"></a>
+   <img width="640" src="https://github.com/Aaris-Kazi/Tool-Detection-using-YOLO/blob/main/output.gif"></a>
 </p>
 
 <div align="center">
-   <a href="https://github.com/ultralytics">
+   <a href="https://github.com/Aaris-Kazi">
    <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-social-github.png" width="2%"/>
    </a>
    <img width="2%" />
-   <a href="https://www.linkedin.com/company/ultralytics">
+   <a href="https://www.linkedin.com/in/aaris-kazi/">
    <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-social-linkedin.png" width="2%"/>
    </a>
    <img width="2%" />
-   <a href="https://twitter.com/ultralytics">
+   <a href="https://twitter.com/AarisKazi">
    <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-social-twitter.png" width="2%"/>
    </a>
    <img width="2%" />
-   <a href="https://www.producthunt.com/@glenn_jocher">
-   <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-social-producthunt.png" width="2%"/>
-   </a>
-   <img width="2%" />
-   <a href="https://youtube.com/ultralytics">
-   <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-social-youtube.png" width="2%"/>
-   </a>
-   <img width="2%" />
-   <a href="https://www.facebook.com/ultralytics">
-   <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-social-facebook.png" width="2%"/>
-   </a>
-   <img width="2%" />
-   <a href="https://www.instagram.com/ultralytics/">
+   <a href="https://www.instagram.com/aaris_kazi/">
    <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-social-instagram.png" width="2%"/>
    </a>
-</div>
-
-<!--
-<a align="center" href="https://ultralytics.com/yolov5" target="_blank">
-<img width="800" src="https://github.com/ultralytics/yolov5/releases/download/v1.0/banner-api.png"></a>
--->
-
 </div>
 
 ## <div align="center">Documentation</div>
