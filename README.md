@@ -1,4 +1,5 @@
 <div align="center">
+   ## It is our major project based on Arduino
 <p>
    <img width="640" src="https://github.com/Aaris-Kazi/Tool-Detection-using-YOLO/blob/main/output.gif"></a>
 </p>
