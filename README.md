@@ -47,11 +47,11 @@ pip install -r requirements.txt  # install
    For Using Laptop camera 
 
 ```
-   python app.py --weight latest.pt --img 100 --conf 0.55 --source 0
+python app.py --weight latest.pt --img 100 --conf 0.55 --source 0
 ```
    
    For Mobile Stream using Ip camera 
 
 ```
-   python app.py --weight latest.pt --img 100 --conf 0.55 --source http://192.168.0.102:8080/video
+python app.py --weight latest.pt --img 100 --conf 0.55 --source http://192.168.0.102:8080/video
 ```
