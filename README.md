@@ -1,5 +1,5 @@
 <div align="center">
-   ## It is our major project based on Arduino
+   <h2>It is our major project based on Arduino</h2>
 <p>
    <img width="640" src="https://github.com/Aaris-Kazi/Tool-Detection-using-YOLO/blob/main/output.gif"></a>
 </p>
